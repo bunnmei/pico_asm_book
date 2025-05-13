@@ -1,0 +1,5 @@
+/home/humi/pico/asm_book/ch2/build/_deps/picotool/picotool
+/home/humi/pico/asm_book/ch2/build/_deps/picotool/picotoolTargets.cmake
+/home/humi/pico/asm_book/ch2/build/_deps/picotool/picotoolTargets-release.cmake
+/home/humi/pico/asm_book/ch2/build/_deps/picotool/picotoolConfig.cmake
+/home/humi/pico/asm_book/ch2/build/_deps/picotool/picotoolConfigVersion.cmake
