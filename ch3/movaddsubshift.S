@@ -8,13 +8,16 @@ after:
   MOV R2, #3
   MOVS R1, R2
   MOV R9, R2
+
   ADD R4, R2, #7
   ADD R4, R4, #255
   ADD R4, #255
+
   MOV R7, #23
   MOV R11, R7
   MOV R7, #54
   MOV R10, R7
+  
   ADD R10, R10, R11
   ADD SP, SP, #508
   SUB SP, SP, #508
